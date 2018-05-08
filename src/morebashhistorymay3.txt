@@ -1,0 +1,43 @@
+    1  ls -al
+    2  tar -xvf lmbench*
+    3  ls -al
+    4  cd lmb*
+    5  cd src
+    6  ls -al
+    7  run results
+    8  make results
+    9  cd ~/.
+   10  sudo apt install -y build-essential
+   11  sudo apt update && sudo apt upgrade 
+   12  cd lmb*/src
+   13  make results
+   14  sudo apt install make -y
+   15  make results
+   16  make results see
+   17  ls -al
+   18  sudo apt update
+   19  apt list --upgradable
+   20  apt list --upgradable -a
+   21  sudo apt upgrade
+   22  ls -al
+   23  tar -xvf lmbench-3.0-a.9.tgz
+   24  tar -xvf lmbench-3.0-a9.tgz
+   25  make --version
+   26  ls -al
+   27  cd lmbench-3.0-a9
+   28  ls -al
+   29  cd src
+   30  make results see
+   31  sudo apt install build-essential
+   32  make results see
+   33  history
+   34  apt --help
+   35  apt install --help
+   36  history
+   37  ls -al /lmb*
+   38  ls -al ~/lmb*
+   39  ls -al ~/lmb*/results
+   40  ls -al ~/lmb*/results/x86*
+   41  cat ~/lmb*/results/x86*/ip-172*
+   42  make results see
+   43  history > morebashhistorymay3.txt
